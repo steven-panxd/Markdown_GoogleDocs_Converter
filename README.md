@@ -15,3 +15,6 @@ This script must be executed in the Google Colab environment. If running elsewhe
 * Click "Runtime" → "Run All".
 * A login prompt will appear; authenticate the application to grant permission to create Google Docs in your account.
 * If successful, the script will output a link to the converted Google Docs document.
+
+# Link to Github
+https://github.com/steven-panxd/Markdown_GoogleDocs_Converter
